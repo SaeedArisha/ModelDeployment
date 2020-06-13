@@ -1,2 +1,2 @@
-# ModelDeployment
-ML Model Deployment using TF Serving
+This is a simple Model Deployment exercise using tf Serving. 
+TF version: 2.2.0
